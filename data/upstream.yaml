@@ -520,6 +520,10 @@ python-glance-store:
     homepage: https://pypi.python.org/pypi/glance_store
 python-glue:
  repo: https://github.com/jorgebastida/glue
+python-i3ipc:
+    status: released
+    links:
+        repo: https://github.com/acrisci/i3ipc-python
 python-import-utils:
   links:
     homepage: https://github.com/ASKBOT/python-import-utils
